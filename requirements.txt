@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+colorama
+cryptography
+python-whois
+rich
+pyfiglet
+qrcode
+pillow
+speedtest-cli
